@@ -77,6 +77,3 @@ Experiment with different setups and enjoy your Rocket League journey. Good luck
 ## Acknowledgments
 
 I would like to thank the Rocket League community and the developers for their continuous support and dedication to making this game better. Special thanks to all the players whose feedback and insights have contributed to the creation of this guide.
-
----
-Feel free to add more playful sections, emojis, and other elements to give your guide a unique and fun touch! With creativity, you can make your guide more memorable and enjoyable for the readers. Happy gaming and sharing your expertise with the community! 😄🎮
